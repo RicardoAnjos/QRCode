@@ -1,1 +1,2 @@
-# QRCode-reader-with-Swift-2.0-AVFoundation
+# QRCode
+ This is an example of implementation of QRCode Reader using Swift 2.0 and AVFoundation
